@@ -38,3 +38,9 @@ Total rollnumber exe:15
 * Length of array:7
 
 === Code Execution Successful ===
+
+* Logical operators
+
+True
+False
+=== Code Execution Successful ===
