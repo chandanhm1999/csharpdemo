@@ -16,5 +16,8 @@ public class HelloWorld
        rollNumber[4];
        
        Console.WriteLine("Total rollnumber exe:" + total);
+
+        // to find array lenth
+        Console.WriteLine("Length of array:" + rollNumber.Length);
     }
 }
