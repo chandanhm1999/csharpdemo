@@ -34,3 +34,7 @@ mono /tmp/xQgIKsCfWV.exe
 Total rollnumber exe:15
 
 === Code Execution Successful ===
+
+* Length of array:7
+
+=== Code Execution Successful ===
