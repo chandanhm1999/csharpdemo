@@ -19,3 +19,11 @@ Example for boolTrue
 Example for stringVishnu
 
 === Code Execution Successful ===
+
+#### thirddemo.cs
+
+mono /tmp/ZZolr4jJWK.exe
+username value is: 10
+userName value is: 20
+
+=== Code Execution Successful ===
