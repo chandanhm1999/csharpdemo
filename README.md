@@ -44,3 +44,10 @@ Total rollnumber exe:15
 True
 False
 === Code Execution Successful ===
+
+#### fifthdemo.cs
+> loops like if-else and shorcuts (?:)
+
+15is odd number
+
+=== Code Execution Successful ===
