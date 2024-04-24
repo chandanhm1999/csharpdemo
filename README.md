@@ -46,8 +46,14 @@ False
 === Code Execution Successful ===
 
 #### fifthdemo.cs
-> loops like if-else and shorcuts (?:)
+> loops like if-else and shorcuts like ternary operators (?:) 
 
 15is odd number
 
 === Code Execution Successful ===
+> ternary operators (?:) o/p
+
+15 is Odd Number
+
+=== Code Execution Successful ===
+
