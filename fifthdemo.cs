@@ -16,5 +16,11 @@ public class HelloWorld
        
        else
        Console.WriteLine( number + "is odd number");
+
+        //another method
+
+        result = (number% 2 == 0)? "Even number" : "Odd Number";
+       
+        Console.WriteLine("{0} is {1}", number, result);
     }
 }
