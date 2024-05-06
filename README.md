@@ -55,6 +55,10 @@ False
 === Code Execution Successful ===
 > ternary operators (?:) o/p
 
+#### schoolDB.sql
+
+Sql querys for demo dewsite in C# & dotnet
+
 15 is Odd Number
 
 === Code Execution Successful ===
